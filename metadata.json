@@ -1,0 +1,6 @@
+{
+  "name": "M Rahman AI Tuition",
+  "description": "AI-powered tuition and coaching app for Kaliachak, Malda. Upload math and science questions for step-by-step Bengali solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
